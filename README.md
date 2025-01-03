@@ -29,17 +29,30 @@ Changed the formats for columns: Episodes and Seasons from text to int
 ## Tasks
 
 Distribution of Movies by Genre 
+
 Average Running Time by Genre 
+
 Movies Released Each Year 
+
 Top 10 Longest Movies
+
 Movies by Age Rating 
+
 Count of Movies by Year and Genre
+
 Most Common Movie Types Storytelling
+
 Correlation Between Running Time and Year
+
 Genre Popularity Over Time
+
 Movies by Genre and Age Rating
+
 Movies with Maximum Episodes
+
 Distribution of Running Time
+
+
 
 
 
