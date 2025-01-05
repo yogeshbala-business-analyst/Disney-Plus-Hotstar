@@ -52,6 +52,10 @@ Movies with Maximum Episodes
 
 Distribution of Running Time
 
+# Dashboard Disney+HotStar Data Analysis
+  `![Dashboard](https://github.com/user-attachments/assets/4ec26bc7-9cb1-4d76-8a16-92bce3bf2df6)
+![Dashboard](https://github.com/user-attachments/assets/6e268af1-eadd-4fcd-8487-a5bcdc3e2a99)
+
 
 
 
