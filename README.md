@@ -52,7 +52,7 @@ Movies by Genre and Age Rating
 Movies with Maximum Episodes
 
 Distribution of Running Time
-
+## FULL Project https://github.com/yogeshbala-business-analyst/Disney-Plus-Hotstar/blob/main/Disney%20Plus%20Hotstar%20project.pptx
 # Dashboard Disney+HotStar Data Analysis
   `![Dashboard](https://github.com/user-attachments/assets/4ec26bc7-9cb1-4d76-8a16-92bce3bf2df6)
 ![Dashboard](https://github.com/user-attachments/assets/6e268af1-eadd-4fcd-8487-a5bcdc3e2a99)
