@@ -22,8 +22,11 @@ Historical Analysis:
 
 ## Data Processing With Power Query 
 Removed unwanted columns that are not necessary for analysis. 
+
 Running time columns contain some null values and those values are filled with Average values.
+
 Changed the formats for columns: Episodes and Seasons from text to int
+![image](https://github.com/user-attachments/assets/c212ea2f-432c-4fc0-b15d-d507f33468a0)
 
 # Tasks
 
