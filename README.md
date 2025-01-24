@@ -25,9 +25,7 @@ Removed unwanted columns that are not necessary for analysis.
 Running time columns contain some null values and those values are filled with Average values.
 Changed the formats for columns: Episodes and Seasons from text to int
 
-![image](https://github.com/user-attachments/assets/c1caf1df-58f6-4644-a94a-ffd5814cfdc6)
-
-## Tasks
+# Tasks
 
 Distribution of Movies by Genre 
 
@@ -50,7 +48,10 @@ Genre Popularity Over Time
 Movies by Genre and Age Rating
 
 Movies with Maximum Episodes
-# Distribution of Movies by Genre
+## number of Movie and TV Show 
+![image](https://github.com/user-attachments/assets/8efc9b96-9634-44f0-8926-925d23ad6034)
+
+## Distribution of Movies by Genre
 ![image](https://github.com/user-attachments/assets/d83e08d5-3bb3-492a-a586-2927249d5f3c)
 
 # Average Running Time by Genre 
@@ -59,8 +60,10 @@ Movies with Maximum Episodes
 # Movies Released Each Year 
 ![image](https://github.com/user-attachments/assets/57f63e1e-daaf-42b0-9432-a3982b36c70c)
 
-# Top 10 Longest Movies and Top 10 Longest TV Show
+# Top 10 Longest Movies 
 ![image](https://github.com/user-attachments/assets/be7359ad-cb89-4530-b857-7d3b8644054f)
+
+## TV Show with Maximum Episodes
 ![image](https://github.com/user-attachments/assets/f5d77c7b-38f9-4185-b3ad-69cbe7df9e96)
 
 # Count of Movies by Year and Genre
@@ -74,6 +77,13 @@ Movies with Maximum Episodes
 
 # Movies by Genre and Age Rating
 ![image](https://github.com/user-attachments/assets/0305acbf-bcee-4925-a44a-84294aae425b)
+## most commom movie type 
+![image](https://github.com/user-attachments/assets/5928e1a8-0817-4a04-89a4-596597c731c3)
+
+## Genre Popularity Over Time
+![image](https://github.com/user-attachments/assets/515a6c3b-d276-4374-96e2-e940c69fff09)
+
+
 
 Distribution of Running Time
 ## FULL Project https://github.com/yogeshbala-business-analyst/Disney-Plus-Hotstar/blob/main/Disney%20Plus%20Hotstar%20project.pptx
