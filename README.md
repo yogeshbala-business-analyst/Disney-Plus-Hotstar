@@ -50,6 +50,30 @@ Genre Popularity Over Time
 Movies by Genre and Age Rating
 
 Movies with Maximum Episodes
+# Distribution of Movies by Genre
+![image](https://github.com/user-attachments/assets/d83e08d5-3bb3-492a-a586-2927249d5f3c)
+
+# Average Running Time by Genre 
+![image](https://github.com/user-attachments/assets/2a073a52-8c59-4709-90d2-829e03339368)
+
+# Movies Released Each Year 
+![image](https://github.com/user-attachments/assets/57f63e1e-daaf-42b0-9432-a3982b36c70c)
+
+# Top 10 Longest Movies and Top 10 Longest TV Show
+![image](https://github.com/user-attachments/assets/be7359ad-cb89-4530-b857-7d3b8644054f)
+![image](https://github.com/user-attachments/assets/f5d77c7b-38f9-4185-b3ad-69cbe7df9e96)
+
+# Count of Movies by Year and Genre
+![image](https://github.com/user-attachments/assets/8db166d7-4aab-43e6-8a37-52f9aedbeaad)
+
+# Correlation Between Running Time and Year
+![image](https://github.com/user-attachments/assets/7fb5ff40-2b39-426a-8c48-c8c3c0f0a71e)
+
+# Genre Popularity Over Time
+![image](https://github.com/user-attachments/assets/7c09961e-8529-4829-8892-77bce0cc1026)
+
+# Movies by Genre and Age Rating
+![image](https://github.com/user-attachments/assets/0305acbf-bcee-4925-a44a-84294aae425b)
 
 Distribution of Running Time
 ## FULL Project https://github.com/yogeshbala-business-analyst/Disney-Plus-Hotstar/blob/main/Disney%20Plus%20Hotstar%20project.pptx
