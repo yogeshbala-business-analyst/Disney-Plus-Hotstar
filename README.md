@@ -70,17 +70,8 @@ Movies with Maximum Episodes
 
 ## Top 10 Longest Movies 
 ![image](https://github.com/user-attachments/assets/be7359ad-cb89-4530-b857-7d3b8644054f)
-Findings: 
-• The longest movie in the dataset is "The 2022 Rock & Roll Hall of Fame Induction Ceremony" with a running time of 229 minutes. 
 
-Insights: 
-• Long movies often have complex plots or extensive narratives requiring extended screen time. 
-
-• The top 10 longest movies are primarily from genres like "Drama" and "Action."
 ![image](https://github.com/user-attachments/assets/0955a282-8560-4c93-a8f8-f60d2ed8cf6c)
-
-
-
 
 ## TV Show with Maximum Episodes
 ![image](https://github.com/user-attachments/assets/f5d77c7b-38f9-4185-b3ad-69cbe7df9e96)
