@@ -59,13 +59,6 @@ Movies with Maximum Episodes
 ## number of Movie and TV Show 
 ![image](https://github.com/user-attachments/assets/8efc9b96-9634-44f0-8926-925d23ad6034)
 
- 
-![image](https://github.com/user-attachments/assets/7fc5a6da-38a2-4f5b-82ea-7171a1aaf1be)
-
-![image](https://github.com/user-attachments/assets/9b62f897-cb9d-4c7d-89dc-2218e1727081)
-
-![image](https://github.com/user-attachments/assets/936d29ea-31a2-4025-9060-92736dee2ddf)
-
 ## Distribution of Movies by Genre
 ![image](https://github.com/user-attachments/assets/d83e08d5-3bb3-492a-a586-2927249d5f3c)
 
