@@ -1,5 +1,8 @@
 # Disney-Plus-Hotstar
-Domain: Media and Entertainment
+Domain: Media and Entertainment![image](https://github.com/user-attachments/assets/bd1be7ee-13ad-4ba4-8e05-85f40b8fbfd8)
+![image](https://github.com/user-attachments/assets/be786db9-3cc1-4e98-9b35-b78f0beaf245)
+![image](https://github.com/user-attachments/assets/5eeddc0f-b8ef-4cba-846f-e2927e8c8b26)
+
 Tool: Tableau
 
 ## Problem Statement
@@ -26,6 +29,7 @@ Removed unwanted columns that are not necessary for analysis.
 Running time columns contain some null values and those values are filled with Average values.
 
 Changed the formats for columns: Episodes and Seasons from text to int
+
 ![image](https://github.com/user-attachments/assets/c212ea2f-432c-4fc0-b15d-d507f33468a0)
 
 # Tasks
@@ -53,8 +57,47 @@ Movies by Genre and Age Rating
 Distribution of Running Time
 
 Movies with Maximum Episodes
+
 ## number of Movie and TV Show 
 ![image](https://github.com/user-attachments/assets/8efc9b96-9634-44f0-8926-925d23ad6034)
+
+Findings: 
+ • The genre with the highest number of movies is "Drama," followed by "Comedy" and "Romance." 
+
+• Some genres like "Lifestyle" and "Food" have significantly less movies compared to others. 
+
+Insights: 
+• The higher count of Drama and Comedy movies suggests these genres are popular and frequently produced.
+
+ • The low count in specific genres might indicate niche markets or less audience interest
+ 
+![image](https://github.com/user-attachments/assets/7fc5a6da-38a2-4f5b-82ea-7171a1aaf1be)
+
+Findings: 
+ Genres like "Action" and "Biopic" have higher average running times compared to genres like "Science" and "Standup Comedy.“
+
+
+ Insights:
+ • Action and Biopic often require more screen time to cover detailed information and narratives, leading to longer average running times.
+
+ • Shorter running times in genres like Science and Standup Comedy may cater to the preferences of their target audiences
+![image](https://github.com/user-attachments/assets/9b62f897-cb9d-4c7d-89dc-2218e1727081)
+
+Findings: 
+ • The number of movies released annually has shown a flat line from 1963 to 2000, and there is a noticeable peaks after 2000.
+
+Steady Rise: Movie releases climbed steadily through the 2010s, reaching 561 in 2021.
+
+Big Increases: There were major jumps in the number of films, especially in 2015 (355), 2016 (423), and 2017 (513).
+
+ Insights: 
+• The increase in movie releases could be due to technological advancements, changes in consumer demand, and growth in the entertainment industry.
+
+ • Peaks in specific years might be linked to significant industry events or trends.
+![image](https://github.com/user-attachments/assets/936d29ea-31a2-4025-9060-92736dee2ddf)
+
+
+
 
 ## Distribution of Movies by Genre
 ![image](https://github.com/user-attachments/assets/d83e08d5-3bb3-492a-a586-2927249d5f3c)
@@ -67,6 +110,17 @@ Movies with Maximum Episodes
 
 ## Top 10 Longest Movies 
 ![image](https://github.com/user-attachments/assets/be7359ad-cb89-4530-b857-7d3b8644054f)
+Findings: 
+• The longest movie in the dataset is "The 2022 Rock & Roll Hall of Fame Induction Ceremony" with a running time of 229 minutes. 
+
+Insights: 
+• Long movies often have complex plots or extensive narratives requiring extended screen time. 
+
+• The top 10 longest movies are primarily from genres like "Drama" and "Action."
+![image](https://github.com/user-attachments/assets/0955a282-8560-4c93-a8f8-f60d2ed8cf6c)
+
+
+
 
 ## TV Show with Maximum Episodes
 ![image](https://github.com/user-attachments/assets/f5d77c7b-38f9-4185-b3ad-69cbe7df9e96)
