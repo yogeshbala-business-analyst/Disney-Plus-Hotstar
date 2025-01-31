@@ -1,8 +1,6 @@
-# Disney-Plus-Hotstar
-Domain: Media and Entertainment![image](https://github.com/user-attachments/assets/bd1be7ee-13ad-4ba4-8e05-85f40b8fbfd8)
-![image](https://github.com/user-attachments/assets/be786db9-3cc1-4e98-9b35-b78f0beaf245)
-![image](https://github.com/user-attachments/assets/5eeddc0f-b8ef-4cba-846f-e2927e8c8b26)
 
+# Disney-Plus-Hotstar
+Domain: Media and Entertainment
 Tool: Tableau
 
 ## Problem Statement
